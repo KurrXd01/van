@@ -1,0 +1,104 @@
+const fun = (prefix, Laporowner) => { 
+	return `╭───────────────────
+│ *「 Fun Menu 」*
+│
+│ Owner: wa.me/${Laporowner}
+├──────────────────
+│➻ ${prefix}xox
+│➻ ${prefix}slot
+│➻ ${prefix}tod
+│➻ ${prefix}truth
+│➻ ${prefix}dare
+│➻ ${prefix}alay
+│➻ ${prefix}alay2
+│➻ ${prefix}santet
+│➻ ${prefix}suit
+│➻ ${prefix}tictactoe
+│➻ ${prefix}deltt
+│➻ ${prefix}tebakkimia
+│➻ ${prefix}tebakjenaka
+│➻ ${prefix}tebaklirik
+│➻ ${prefix}tebakkata
+│➻ ${prefix}tebakbendera
+│➻ ${prefix}siapakahaku
+│➻ ${prefix}asahotak
+│➻ ${prefix}susunkata
+│➻ ${prefix}anjing
+│➻ ${prefix}kucing
+│➻ ${prefix}cecan
+│➻ ${prefix}cogan
+│➻ ${prefix}bts
+│➻ ${prefix}exo
+│➻ ${prefix}blackpink
+│➻ ${prefix}cerpen
+│➻ ${prefix}ceritahoror
+│➻ ${prefix}tebakgambar
+│➻ ${prefix}stopkuiz 
+│➻ ${prefix}sambungkata
+│➻ ${prefix}cancelsambungkata
+│➻ ${prefix}caklontong
+│➻ ${prefix}family100
+│➻ ${prefix}onecak
+│➻ ${prefix}memeindo
+│➻ ${prefix}darkjokes
+│➻ ${prefix}fakedonald
+│➻ ${prefix}testime
+│➻ ${prefix}bpfont
+│➻ ${prefix}rate
+│➻ ${prefix}watak
+│➻ ${prefix}hobby
+│➻ ${prefix}gantengcek
+│➻ ${prefix}cantikcek
+│➻ ${prefix}persengay
+│➻ ${prefix}fuckboycek
+│➻ ${prefix}fuckgirlcek
+│➻ ${prefix}sangecek
+│➻ ${prefix}persenyuri
+│➻ ${prefix}persenbucin
+│➻ ${prefix}tercantik
+│➻ ${prefix}tersange
+│➻ ${prefix}terbucin
+│➻ ${prefix}terganteng
+│➻ ${prefix}terbabi
+│➻ ${prefix}terbeban
+│➻ ${prefix}apakah
+│➻ ${prefix}bisakah
+│➻ ${prefix}kapankah
+│➻ ${prefix}bagaimanakah
+│➻ ${prefix}sagnecek
+│➻ ${prefix}panjangttd
+│➻ ${prefix}tebakumur
+│➻ ${prefix}deteksiumur
+│➻ ${prefix}randomnama
+│➻ ${prefix}artinama
+│➻ ${prefix}namaninja
+│➻ ${prefix}fordward
+│➻ ${prefix}nickff
+│➻ ${prefix}citacita
+│➻ ${prefix}jodoh
+│➻ ${prefix}weton
+│➻ ${prefix}bucin
+│➻ ${prefix}pantun
+│➻ ${prefix}faktaunik
+│➻ ${prefix}jadian
+│➻ ${prefix}tanggaljadian
+│➻ ${prefix}hurufterbalik
+│➻ ${prefix}katabijak
+│➻ ${prefix}motivasi
+│➻ ${prefix}hekerbucin
+│➻ ${prefix}katailham
+│➻ ${prefix}katadilan
+│➻ ${prefix}gombal
+│➻ ${prefix}quotes
+│➻ ${prefix}quotescinta
+│➻ ${prefix}quotesimage
+│➻ ${prefix}quotesislami
+│➻ ${prefix}quotesmuslim
+│➻ ${prefix}quotesmotivasi
+│➻ ${prefix}quotesnasehat
+│➻ ${prefix}quoteskehidupan
+│➻ ${prefix}addquotebucin
+│➻ ${prefix}quotebucin
+╰──────────────────`
+}
+exports.fun = fun
